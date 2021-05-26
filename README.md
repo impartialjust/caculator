@@ -1,2 +1,2 @@
 # caculator
- TEst my html script tech
+ TEst my pythom script tech
